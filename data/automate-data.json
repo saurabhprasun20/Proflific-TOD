@@ -1,0 +1,17 @@
+{
+    "name": "Participate in a survey about human cloning",
+    "internal_name": "PRODIGI-survey",
+    "description": "Answer a survey about human cloning and participate in an online chatroom to talk about human cloning",
+    "external_study_url": "https://ipz.qualtrics.com/jfe/form/SV_2bIfHbYDKnyynDU",
+    "prolific_id_option": "question",
+    "completion_code": "7EF9FD0D",
+    "completion_option": "code",
+    "total_available_places": 30,
+    "estimated_completion_time": 30,
+    "reward": 350, 
+    "device_compatibility": [
+      "desktop"
+    ],
+    "peripheral_requirements": [],
+    "eligibility_requirements": []
+}
